@@ -27,6 +27,7 @@ class DashboardController extends GetxController {
 
   bool isDataLoading = true;
 
+
   bool isAPIHitting = false; // for bottom sheet
 
   @override
